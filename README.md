@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I’m **AV Mathavan**! 🌟
+# 👋 Hello, I’m **MATHAVAN V**! 🌟
 
 ### A passionate **Full-Stack Developer** 👨‍💻 | **Open Source Enthusiast** 🌱 | **Tech Explorer** 🚀
 
@@ -36,11 +36,11 @@ I'm a **Software Engineer** focused on **building high-quality web applications*
 ## 🧑‍💻 **Tech Stack** 💻
 
 <p align="center">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50" />
-  </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" />
+  </a>  
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50" />
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="50" height="50" />
@@ -63,7 +63,7 @@ I'm a **Software Engineer** focused on **building high-quality web applications*
 </p>
 
 ---
-
+<!--
 ## 📈 **GitHub Stats**
 
 <p align="center">
@@ -79,6 +79,7 @@ I'm a **Software Engineer** focused on **building high-quality web applications*
 </p>
 
 ---
+-->
 
 ## 💬 **Let’s Connect!**
 
@@ -87,10 +88,18 @@ I'm a **Software Engineer** focused on **building high-quality web applications*
 
 ---
 
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+
 ## 📚 **My Open-Source Contributions & Projects** 
 
 🌱 **Active Projects**:  
 - **ToDo Application**: An API for managing to-do tasks. Developed using **Spring Boot** and **PostgreSQL**.
+
 Feel free to check out the code and contribute to these projects if you’re interested!
 
 ---
@@ -103,8 +112,5 @@ Feel free to check out the code and contribute to these projects if you’re int
 
 ---
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 

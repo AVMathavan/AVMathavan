@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+
+- 💻 Software Engineer specializing in Full-stack development.
+- 🔧 Skilled in: Python, Django, Java, Spring Boot, Javascript, Angular, Git, Docker.
+- 🚀 Committed to writing clean, maintainable, and efficient code.
+- 📫 Connect with https://www.linkedin.com/in/a-v-mathavan/ .
